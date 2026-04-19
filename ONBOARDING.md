@@ -28,8 +28,8 @@ This sheet is designed to help onboard new learners into the course.
 | 6   | 724.2 Find Pivot Index (Code)                          | [🎥 Watch Video](https://www.youtube.com/watch?v=59gnJCkDzEc&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=2)  | ✅ Done |
 | 7   | 118.1 Pascal's Triangle (Theory)                       | [🎥 Watch Video](https://www.youtube.com/watch?v=p6l9kw5Pv1I&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=7)  | ☐      |
 | 8   | 118.2 Pascal's Triangle (Code)                         | [🎥 Watch Video](https://www.youtube.com/watch?v=ELo7RR-Isjk&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=8)  | ☐      |
-| 9   | 344.1 Reverse String (Theory)                          | [🎥 Watch Video](https://www.youtube.com/watch?v=SfE6EOTy3As&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=9)  | ☐      |
-| 10  | 344.2 Reverse String (Code)                            | [🎥 Watch Video](https://www.youtube.com/watch?v=0uJjOlNOrQ0&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=10) | ☐      |
+| 9   | 344.1 Reverse String (Theory)                          | [🎥 Watch Video](https://www.youtube.com/watch?v=SfE6EOTy3As&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=9)  | ✅ Done |
+| 10  | 344.2 Reverse String (Code)                            | [🎥 Watch Video](https://www.youtube.com/watch?v=0uJjOlNOrQ0&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=10) | ✅ Done |
 | 11  | 0. Linked List Introduction                            | [🎥 Watch Video](https://www.youtube.com/watch?v=tbrVeBu0_NY&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0)          | ☐      |
 | 12  | 707.1 Design Linked List (Theory)                      | [🎥 Watch Video](https://www.youtube.com/watch?v=ZWtxxHEuCdU&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=2)  | ☐      |
 | 13  | 707.2 Design Linked List (Code)                        | [🎥 Watch Video](https://www.youtube.com/watch?v=MLeTJR81O4E&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=3)  | ☐      |
